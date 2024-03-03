@@ -1,3 +1,8 @@
+---
+title: "World of Widgets"
+date: 2024-03-02
+---
+
 # Welcome to the Wonderful World of Widgets!
 
 ## About Us
